@@ -5,7 +5,7 @@
 
 Projeto em andamento (link do projeto)
 
-Projeto Integrador I será uma aplicação em linguagem python e R construída ao longo dos semestres da **Univesp** (#sds1), material disponibilizado pela [Univesp](https://univesp.br/ "Site da univesp").
+Projeto Integrador I será uma aplicação em linguagem python e R construída ao longo dos semestres da **Univesp**, material disponibilizado pela [Univesp](https://univesp.br/ "Site da univesp").
 
 A aplicação consiste em uma pesquisa com forneciemnto e analise de dados tratados visando os principais objetivos:
 
