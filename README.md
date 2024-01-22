@@ -49,56 +49,54 @@ X. Promover a aprendizagem com autonomia no que tange à pesquisa, organização
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- Python
+- Linguagem R
+- Power BI
+  
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
+
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
+- Banco de dados: Mysql
 
 # Como executar o projeto
 
+## projeto em construção
+
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: --- 
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone (link)
 
 # entrar na pasta do projeto back end
-cd backend
+cd ---
 
 # executar o projeto
-./mvnw spring-boot:run
+--- link?
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: ---
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone ---
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd ---
 
 # instalar dependências
-yarn install
+--- install
 
 # executar o projeto
-yarn start
+---
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+Ádila Mota
